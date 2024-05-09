@@ -1,4 +1,4 @@
-# Submission 2: Sentimen Analisis Timnas Sepak Bola Indonesia pada Masa Kepelatihan Shin-Tae Young
+# Submission 2: Sentimen Analisis Timnas Sepak Bola Indonesia pada Masa Kepelatihan Shin-Tae Yong
 Nama: Fajar Ramadhan
 
 Username dicoding: fajar_ramadhan_bbk
@@ -15,3 +15,6 @@ Username dicoding: fajar_ramadhan_bbk
 | Opsi deployment | Proyek ini di deploy menggunakan Railway App, yaitu salah satu platform yang menyediakan layanan deploy proyek termasuk model machine learning secara gratis |
 | Web app |  dapat diakses disini: https://analisis-sentimen-sty-production-ab80.up.railway.app/v1/models/sentimen-analysis-sty-model/metadata |
 | Monitoring| Monitoring dilakukan menggunakan Prometheus. Salah satu hal yang dapat dimonitoring adalah *request count* untuk mengetahui jumlah *request* |
+
+## Note:
+saat ini model dalam keadaan non-aktif, sehingga tidak dapat melakukan request
