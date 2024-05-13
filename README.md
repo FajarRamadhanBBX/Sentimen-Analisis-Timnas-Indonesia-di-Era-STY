@@ -17,4 +17,4 @@ Username dicoding: fajar_ramadhan_bbk
 | Monitoring| Monitoring dilakukan menggunakan Prometheus. Salah satu hal yang dapat dimonitoring adalah *request count* untuk mengetahui jumlah *request* |
 
 ## Note:
-saat ini model dalam keadaan non-aktif, sehingga tidak dapat melakukan request
+saat ini model dalam keadaan non-aktif, sehingga model tidak dapat diakses
